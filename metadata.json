@@ -1,0 +1,11 @@
+{
+  "name": "Velo",
+  "description": "A modern short-video social media platform with a vertical swipe feed, in-app camera recording, soundtracks, discovery, and real-time community interactions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
